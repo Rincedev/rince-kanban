@@ -1,1 +1,1 @@
-# rince-kanban
+# S13-okanban-SPA
